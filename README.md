@@ -6,7 +6,7 @@
 - 💻 I work with **React, HTML, CSS, JavaScript, TypeScript, Node.js**
 - 📚 Always learning and improving, currently diving deeper into **React & TypeScript**
 
----
+<hr style="height:1px; background-color:#ccc; border:none;" />
 
 ### 🤝 Connect with me
 
