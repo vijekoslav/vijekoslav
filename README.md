@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center">Connect with me:</h2>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vjeko-boras" target="blank" style="border: none; text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vjeko-boras" height="30" width="40" />
@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">Languages and Tools:</h2>
+<h3 align="center">Languages and Tools:</h3>
 
 <h4 align="center">👨‍💻 Frontend</h4>
 <p align="center">
