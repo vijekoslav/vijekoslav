@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Vjeko 👋</h1>
-<h3 align="center">A frontend web developer from Croatia 🇭🇷</h3>
+# Hi, I'm Vjeko 👋
+### A frontend web developer from Croatia 🇭🇷
 
 - 🌍 Based in **Zagreb, Croatia**
 - 💻 I work with **React, HTML, CSS, JavaScript, TypeScript, Node.js**
