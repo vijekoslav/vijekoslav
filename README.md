@@ -6,7 +6,7 @@
 - 💻 I work with **React, HTML, CSS, JavaScript, TypeScript, Node.js**
 - 📚 Always learning and improving, currently diving deeper into **React & TypeScript**
 
----
+#
 
 ### 🤝 Connect with me
 
