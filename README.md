@@ -34,6 +34,16 @@
 - Node.js
 - Firebase, MySQL, MongoDB, PostgreSQL, Oracle
 
+### 🚀 Frontend
+
+| HTML | CSS / Sass | Tailwind | JavaScript | TypeScript | React |
+|------|------------|----------|------------|------------|--------|
+
+### 🛠️ Backend & DB
+
+| Node.js | Firebase | MySQL | MongoDB | PostgreSQL | Oracle |
+|---------|----------|-------|---------|------------|--------|
+
 <h3 align="center">Languages and Tools:</h3>
 
 <h4 align="center">👨‍💻 Frontend</h4>
