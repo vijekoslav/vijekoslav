@@ -19,9 +19,9 @@
 ### 🧰 Tech Stack
 
 #### 🌐 Frontend
-- HTML, CSS (Sass, Tailwind)
-- JavaScript, TypeScript
 - React
+- HTML, CSS / Sass, Tailwind
+- JavaScript, TypeScript
 
 #### 🖥️ Backend & APIs
 - Node.js
