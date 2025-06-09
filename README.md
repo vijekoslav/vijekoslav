@@ -19,12 +19,12 @@
 ### 🧰 Tech Stack
 
 #### 🌐 Frontend
-- **HTML5**, **CSS3** / **Sass**, **Tailwind CSS**
-- **JavaScript**, **TypeScript**
-- **React**
+- HTML, CSS (Sass, Tailwind)
+- JavaScript, TypeScript
+- React
 
 #### 🖥️ Backend & APIs
-- **Node.js**
+- Node.js
 
 #### 🗄️ Databases
-- **MySQL**, **MongoDB**, **PostgreSQL**, **Oracle**
+- MySQL, MongoDB, PostgreSQL, Oracle
