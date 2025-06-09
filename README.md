@@ -7,6 +7,12 @@
 
 ---
 
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/mislav-dobrinic)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:you@example.com)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vjeko-boras" target="_blank">
@@ -20,7 +26,7 @@
 
 #### 🌐 Frontend
 - React
-- HTML, CSS / Sass, Tailwind
+- HTML, CSS / Sass / Tailwind
 - JavaScript, TypeScript
 
 #### 🖥️ Backend & APIs
