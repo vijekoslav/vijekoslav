@@ -6,14 +6,13 @@
 - 💻 I work with **React, HTML, CSS, JavaScript, TypeScript, Node.js**
 - 📚 Always learning and improving, currently diving deeper into **React & TypeScript**
 
-<hr style="height:0.5px; border: none; background-color: #999;" />
-
+---
 
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/vjeko-boras)
 
-<hr style="height:1px; background-color:#ccc; border:none;" />
+---
 
 ### 🧰 Tech Stack
 
