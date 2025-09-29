@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./header-banner.png)
 ### A frontend web developer from Croatia 🇭🇷
 
 - 🌍 Based in **Zagreb, Croatia**
