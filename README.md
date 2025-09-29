@@ -1,7 +1,4 @@
 ![Header](./banner.png)
-
-# Hi, I'm Vjeko 👋
-
 ### A frontend web developer from Croatia 🇭🇷
 
 - 🌍 Based in **Zagreb, Croatia**
