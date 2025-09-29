@@ -1,7 +1,6 @@
 ![Header](./header-banner.png)
-### A frontend web developer from Croatia 🇭🇷
 
-- 🌍 Based in **Zagreb, Croatia**
+- 🌍 Based in **Zagreb, Croatia 🇭🇷**
 - 💻 I work with **React, HTML, CSS, JavaScript, TypeScript, Node.js**
 - 📚 Always learning and improving, currently diving deeper into **React & TypeScript**
 
