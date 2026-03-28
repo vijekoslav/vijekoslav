@@ -23,4 +23,4 @@
 - Node.js
 
 #### 🗄️ Databases
-- MySQL, MongoDB, PostgreSQL, Oracle
+- MySQL, MongoDB, Oracle, PostgreSQL
