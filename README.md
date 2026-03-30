@@ -1,5 +1,3 @@
-![Header](./header-banner.png)
-
 # 👋 Hey, I'm Vjeko
 
 Frontend developer focused on building clean, scalable web apps — and slowly exploring how AI can become a real part of the development workflow, not just a tool on the side.
