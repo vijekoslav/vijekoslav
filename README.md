@@ -19,18 +19,12 @@ Right now I'm all-in on improving my skills and building a strong foundation in:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-**Frontend**
-- React
-- TypeScript, JavaScript
-- HTML, CSS (Sass, Tailwind)
-
-**Backend**
-- Node.js
-
-**Databases**
-- PostgreSQL, MySQL, MongoDB
+- **Frontend**: React + TypeScript / JavaScript — building UIs that are actually usable, not just “working”
+- **Styling**: Tailwind & Sass — clean design > overcomplicated CSS
+- **Backend**: Node.js — lightweight, practical, does what it needs to do
+- **Data**: PostgreSQL first, but comfortable across SQL & NoSQL
 
 ---
 
