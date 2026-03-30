@@ -19,7 +19,7 @@ Right now I'm all-in on improving my skills and building a strong foundation in:
 
 ---
 
-## 🛠️ Tech Arsenal
+**🛠️ Tech Arsenal**
 
 - **Frontend**: React + TypeScript / JavaScript — building UIs that are actually usable, not just “working”
 - **Styling**: Tailwind & Sass — clean design > overcomplicated CSS
