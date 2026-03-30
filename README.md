@@ -1,26 +1,54 @@
 ![Header](./header-banner.png)
 
-- 🌍 Based in **Zagreb, Croatia 🇭🇷**
-- 💻 I work with **React, HTML, CSS, JavaScript, TypeScript, Node.js**
-- 📚 Always learning and improving, currently diving deeper into **React & TypeScript**
+# 👋 Hey, I'm Vjeko
 
-#
+Frontend developer focused on building clean, scalable web apps — and slowly exploring how AI can become a real part of the development workflow, not just a tool on the side.
 
-### 🤝 Connect with me
+Based in Zagreb 🇭🇷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/vjeko-boras)
+---
 
-#
+## 🚀 What I'm Focused On
 
-### 🧰 Tech Stack
+Right now I'm all-in on improving my skills and building a strong foundation in:
 
-#### 🌐 Frontend
+- ⚛️ React & modern frontend architecture
+- 🧠 TypeScript for safer, scalable code
+- 🔌 Connecting frontend with real-world APIs
+- 🤖 Exploring how AI tools (ChatGPT, Claude, Copilot) actually impact developer productivity
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
 - React
-- HTML, CSS / Sass / Tailwind
-- JavaScript, TypeScript
+- TypeScript, JavaScript
+- HTML, CSS (Sass, Tailwind)
 
-#### 🖥️ Backend & APIs
+**Backend**
 - Node.js
 
-#### 🗄️ Databases
-- MySQL, MongoDB, Oracle, PostgreSQL
+**Databases**
+- PostgreSQL, MySQL, MongoDB
+
+---
+
+## 💡 What I'm About
+
+I enjoy building things that are **clean, intuitive, and actually useful** — not just technically correct.
+
+Right now, I'm especially interested in:
+- how developers work faster with AI
+- structuring scalable frontend apps
+- bridging the gap between learning and real-world projects
+
+Still early in my journey, but focused on becoming the kind of developer who doesn’t just write code — but **builds systems that make sense**.
+
+---
+
+## 📈 What's Next
+
+- Build and publish real-world projects
+- Go deeper into full-stack development
+- Explore AI-assisted workflows in real apps
