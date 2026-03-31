@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Vjeko
 
-Frontend developer focused on building clean, scalable web apps — and slowly exploring how AI can become a real part of the development workflow, not just a tool on the side.
+Frontend developer focused on building clean, scalable web apps — and getting better every day.
 
 Based in Zagreb 🇭🇷
 
@@ -11,7 +11,6 @@ Right now I'm all-in on improving my skills and building a strong foundation in:
 - ⚛️ React & modern frontend architecture
 - 🧠 TypeScript for safer, scalable code
 - 🔌 Connecting frontend with real-world APIs
-- 🤖 Exploring how AI tools (ChatGPT, Claude, Copilot) actually impact developer productivity
 
 ## 🛠️ Tech Arsenal
 
@@ -25,7 +24,6 @@ Right now I'm all-in on improving my skills and building a strong foundation in:
 I enjoy building things that are **clean, intuitive, and actually useful** — not just technically correct.
 
 Right now, I'm especially interested in:
-- how developers work faster with AI
 - structuring scalable frontend apps
 - bridging the gap between learning and real-world projects
 
@@ -35,4 +33,3 @@ Still early in my journey, but focused on becoming the kind of developer who doe
 
 - Build and publish real-world projects
 - Go deeper into full-stack development
-- Explore AI-assisted workflows in real apps
